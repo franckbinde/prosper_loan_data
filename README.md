@@ -14,7 +14,7 @@ This data set contains 113,937 loans with 81 variables on each loan, including l
 - August is the month with most of the originated loans (around 5200 loans). With around 3800 loans generated, February ranks last in this category.
 - I have found a relatively strong and negative correlation (r = -0.717) between `ProsperScore` and `BorrowerRate`. In general, people with lower interest rate for their loan tend to complete the payment. Besides, 
 - Long term loans are in general more expensive (since there is more time to complete the payment). We see that the median of the loan amount for a 60-months loan is much higher that the ones for 12 and 36 months.
-- Regardless of the loan status, <b>home owners tend to acquire more expensive loans</b>. Indeed, the median and 3rd quartile of loan amounts are higher for home owners. On the other hand, owning a home doesn't seem to have a significant impact on the loan status. 
+- Regardless of the loan status, **home owners tend to acquire more expensive loans**. Indeed, the median and 3rd quartile of loan amounts are higher for home owners. On the other hand, owning a home doesn't seem to have a significant impact on the loan status. 
 - Self-employed people with completed loans have a much lower median loan amount than self-employed with defaulted loans.
 
 ## Key Insights for Presentation
